@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
@@ -14,52 +15,45 @@
     tools:showIn="@layout/activity_birthday_card">
 
     <TextView
-        android:layout_width="300dp"
-        android:layout_height="40dp"
-        android:text="Happy Birthday!!!"
         android:id="@+id/textView"
-        android:textStyle="bold"
-        android:textColor="#FFFFFF"
-        android:textSize="30sp"
-        />
-
-    <ImageSwitcher
-        android:layout_width="wrap_content"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/imageSwitcher"
-        android:layout_below="@+id/textView"
-        android:layout_alignParentRight="true"
-        android:layout_alignParentEnd="true"
-        android:layout_marginTop="134dp" />
+        android:layout_alignParentTop="true"
+        android:text="Happy Birthday Krishna!!!"
+        android:textStyle="bold"
+        android:textColor="#FFD180"
+        android:textSize="25sp" />
 
     <ImageView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
         android:id="@+id/imageView"
-        android:src="@drawable/androidparty1"
-        android:layout_below="@+id/textView"
-        android:layout_toLeftOf="@+id/imageSwitcher"
-        android:layout_toStartOf="@+id/imageSwitcher" />
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/textView"
+        android:src="@drawable/androidparty"
+        android:adjustViewBounds="false"
+        android:scaleType="fitXY" />
 
     <TextView
+        android:id="@+id/textView2"
         android:layout_width="100dp"
         android:layout_height="20dp"
+        android:layout_alignRight="@id/imageView"
+        android:layout_alignBottom="@+id/imageView"
         android:textAppearance="?android:attr/textAppearanceSmall"
-        android:text="From Vishy"
-        android:textColor="#111111"
-        android:textSize="15sp"
-        android:id="@+id/textView2"
-        android:layout_below="@+id/imageView"
-        android:layout_alignRight="@+id/imageView"
-        android:layout_alignEnd="@+id/imageView" />
+        android:text="From: Vishy"
+        android:textColor="#304099"
+        android:textSize="15sp"  />
 
     <Button
+        android:id="@+id/button"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Press"
-        android:id="@+id/button"
-        android:layout_alignTop="@+id/textView2"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true" />
+        android:layout_alignBottom="@+id/imageView"
+        android:layout_alignLeft="@+id/imageView"
+        android:layout_alignStart="@+id/imageView"
+        style="?android:attr/buttonStyleSmall"
+        android:text="Play"
+        android:background="#F8BBD0"
+        android:textColor="#9C27B0"/>
 
 </RelativeLayout>
