@@ -1,0 +1,415 @@
+<resources>
+    <string name="app_name"> STORY TIME </string>
+
+    <string name="actionSettings">Settings</string>
+    <string name="actionReader"> Enable Reader </string>
+    <string name="actionFontSize"> Large Font Size </string>
+    <string name="actionNightMode"> Enable Night Mode </string>
+    <string name="about"> About </string>
+
+    <string name="title1">"THE MONKEY AND THE CROCODILE"</string>
+
+    <string name="story1">
+        "Once upon a time, a clever monkey lived in a tree that bore juicy, red rose apples. He was"
+        "very happy. One fine day, a crocodile swam up to that tree and told the monkey that he had"
+        "traveled a long distance and was in search of food as he was very hungry. The kind monkey "
+        "offered him a few rose apples. The crocodile enjoyed them very much and asked the monkey "
+        "whether he could come again for some more fruit. The generous monkey happily agreed.\n"
+        "The crocodile returned the next day. And the next. And the next one after that. Soon the "
+        "two became very good friends. They discussed their lives, their friends and family, like "
+        "all friends do. The crocodile told the monkey that he had a wife and that they lived on "
+        "the other side of the river. So the kind monkey offered him some extra rose apples to take"
+        "home to his wife. The crocodile’s wife loved the rose apples and made her husband promise "
+        "to get her some every day.\n"
+        "Meanwhile, the friendship between the monkey and the crocodile deepened as they spent more"
+        "and more time together. The crocodile’s wife started getting jealous. She wanted to put an"
+        "end to this friendship. So she pretended that she could not believe that her husband could"
+        "be friends with a monkey. Her husband tried to convince her that he and the monkey shared "
+        "a true friendship. The crocodile’s wife thought to herself that if the monkey lived on a "
+        "diet of rose monkeys, his flesh would be very sweet. So she asked the crocodile to invite"
+        "the monkey to their house.\n"
+        "The crocodile was not happy about this. He tried to make the excuse that it would be "
+        "difficult to get the monkey cross the river. But his wife was determined to eat the "
+        "monkey’s flesh. So she thought of a plan. One day, she pretended to be very ill and told "
+        "the crocodile that the doctor said that she would only recover if she ate a monkey’s heart."
+        "If her husband wanted to save her life, he must bring her his friend’s heart.\n"
+        "The crocodile was aghast. He was in a dilemma. On the one hand, he loved his friend. "
+        On the other, he could not possibly let his" wife die. The crocodile’s wife threatened him"
+        "saying that if he did not get her the monkey’s heart, she would surely die.\n"
+        "So the crocodile went to the rose apple tree and invited the monkey to come home to meet "
+        "his wife. He told the monkey that he could ride across the river on the crocodile’s back. "
+        "The monkey happily agreed. As they reached the middle of the river, the crocodile began to"
+        "sink. The frightened monkey asked him why he was doing that. The crocodile explained that "
+        "he would have to kill the monkey to save his wife’s life. The clever monkey told him that "
+        "he would gladly give up his heart to save the life of the crocodile’s wife, but he had left"
+        "his heart behind in the rose apple tree. He asked the crocodile to make haste and turn "
+        "back so that the monkey could go get his heart from the apple tree.\n"
+        "The silly crocodile quickly swam back to the rose apple tree.\n"
+        "The monkey scampered up the tree to safety. He told the crocodile to tell his wicked wife"
+        "that she had married the biggest fool in the world.\n\n"
+   </string>
+    <string name="story11">
+        "Long, long ago, there lived a huge crocodile in the river Ganges. "
+        "The river flowed through a dense jungle. On both sides of the river there stood tall "
+        "jamun and other fruit trees. In one such tree there lived a big monkey by the name of "
+        "Raktamukha. He ate fruits from the tree and passed his days happily jumping from one "
+        "tree to another. Sometimes, he climbed down the tree; took a bath in the river and rested"
+        "for a while on its bank. \n"
+
+        "One day, the crocodile came out of the river and sat under the big jamun tree in which "
+        "the monkey lived. The monkey who was sitting high on a branch saw the crocodile taking "
+        "rest under the tree. He became very eager to talk to the crocodile and cultivate a "
+        "friendship with him.\n"
+
+         "Since you're taking rest under the tree, said the moneky, you're my guest. It's my "
+        "duty to offer you food.\n"
+
+         "The monkey gave jamuns and other fruits to the crocodile to eat. The crocodile ate them"
+        "and thanked the monkey for his hospitality. \n"
+
+        "The monkey and the crocodile talked together for hours and soon they became friends. "
+        "They developed such friendship that neither of the two was happy to miss each other's "
+        "company even for a single day. Early since morning, the monkey would start looking for"
+        "the crocodile, and the crocodile would also swim up to the jamun tree as early as possible."
+        "They would sit together, have a hearty chat and the monkey would offer him the delicious"
+        "jamuns. This became their daily routine.\n"
+
+        "One day, the monkey gave some fruits to the crocodile for his wife, as well. The crocodile"
+        "took the fruits happily to his wife and also narrated the whole story to her.\n"
+
+        "The next day, the crocodile's wife said to her husband, Dear, if these fruits are so "
+        "tasty, then the monkey who eats these fruits must be ten times more tasty. Why don't you "
+        "bring the heart of this monkey for my meals?\n"
+
+        "The crocodile was shocked to hear these words from his wife. He said, Darling, the monkey"
+        "is my friend. It would not be fair to take his heart away from him.\n"
+
+        "That means, you don't love me, said the crocodile's wife and began to weep."
+
+        "Don't weep, dear, said the crocodile. I'll bring the monkey's heart for you."
+
+        "The crocodile swiftly swam to the other bank of the river and reached the tree where"
+        "the monkey lived.\n"
+
+        "My wife and I invite you to our home for a dinner. My wife is very angry with me for not"
+        "having invited you earlier, the crocodile said in a sad tone.\n"
+
+         "But how will I go with you? asked the monkey. I don't know how to swim.\n"
+
+         "Don't worry, said the crocodile. Just ride on my back. I'll take you to my house.\n"
+
+         "The monkey happily sat on the back of the crocodile and the crocodile started his journey"
+         "in the water.\n"
+
+         "While in mid stream, the monkey became frightened to see the water all around him and "
+         "asked the crocodile to swim at a slow speed so that he did not fall into the river.\n"
+
+         "The crocodile thought that he could reveal his real intentions to the monkey, since it"
+         "was impossible for him to escape from the middle of the river. So he said to the monkey,"
+         "I am taking you to my home to please my wife. She wants to eat your heart. She says that"
+         "since you eat tasty fruits day and night, your heart must be ten times more tasty than "
+         "those fruits.\n"
+
+         "The monkey was taken aback to hear these words. He had never expected this type of a "
+         "request from a friend. He kept his mental cool and said wittingly, Very well friend. "
+         "It would be my privilege to offer my heart to your charming wife. But alas! you didn't "
+         "inform me earlier, otherwise, I'd have carried my heart with me. Which I usually keep "
+         "in the hollow of the tree.\n"
+
+         "Oh! said the crocodile, I didn't think of it earlier. Now we'll have to go back to the"
+         "tree.\n"
+         "The crocodile turned and swam back to the bank of the river where the monkey lived.\n"
+         "Upon reaching the bank the monkey jumped off the crocodile's back and quickly climbed up "
+         "his home tree. \n"
+
+         "The crocodile waited for hours together for the monkey to return carrying his heart.\n"
+
+         "When the crocodile realised that the monkey was taking too long searching for his heart,"
+         "he called him from the ground and said, Friend, I believe, you must have found your heart"
+         "by now. Now, please come down. My wife must be waiting for us and getting worried.\n"
+
+         "But the monkey laughed and said sitting at the top of the tree, My dear foolish friend."
+         "You've deceived me as a friend. Can any one take out his heart and keep that in a hollow."
+         "It was all a trick to save my life and teach a lesson to a treacherous friend like you. "
+         "Now get lost.\n"
+         "The crocodile returned home with his head bent down. \n"
+
+    </string>
+
+    <string name="title2"> THE SHEPHERD AND THE WOLF </string>
+    <string name="story2">
+    "There lived a shepherd in a village. He had many sheep. He took them out every morning for "
+    "grazing. One day, his wife fell ill and he had to go to the city to purchase some medicines "
+    "for his ailing wife. 'There will be no one to take care of the sheep', he thought to himself."
+    "Then he called his son and told him, Ramu, I'm going to the city to purchase some medicines "
+    "for your mother. It will take me two or three days to come back. So take care of the sheep."
+    "Save them from being attacked by the tigers and wolves. There are many wild animals in the "
+    "nearby forest. They might kill our sheep.\n"
+
+    "Ramu listened to his father's advice carefully and the next day, he left for the nearby "
+    "hillside with his flock of sheep. But Ramu was a mischievous boy. He was feeling lonely. "
+    "So he wanted to have some fun. He stood on a high rock and began shouting Wolf! wolf!, help. \n"
+
+    "The villagers heard Ramu crying for help. They ran towards the hillside to help the boy, "
+    "carrying big sticks in their hands. When they reached there they found that there was no "
+    "wolf. The sheep were grazing happily and the shepherd boy was playing on a flute. \n"
+
+    "Where is the wolf? the villagers asked the boy.\n"
+
+    "There is no wolf here. I was joking, the boy said and laughed.\n"
+
+    "The villagers became very angry and returned to their work in the village. \n"
+
+    "Next day, the boy played the same trick. The villagers again reached there to help the boy."
+    "But when they came to know that the boy was lying, they felt highly annoyed and went back to "
+    "the village cursing the boy. \n"
+
+    "But on the third day, a wolf really came there. The boy got frightened to see his red eyes. "
+    "The wolf was huffing and growling. He began advancing towards the flock of sheep, gnashing "
+    "his teeth and lolling his tongue. The boy lost his courage and began trembling with fear. "
+    "He shouted, Wolf, wolf, please help! But to no avail.\n"
+
+    "This time no one came to help him. The villagers thought that Ramu was up to his old trick.\n"
+    "The wolf killed many sheep of Ramu. Ramu returned home weeping.\n\n"
+
+</string>
+    <string name="title3"> THE FOUR FRIENDS AND THE HUNTER </string>
+    <string name="story3">
+    "Long, long ago, there lived three friends in a jungle. They were-a deer, a crow and a mouse. "
+        "They used to share their meals together. \n"
+        "One day, a turtle came to them and said, I also want to join your company and become your"
+        "friend. I'm all alone. \n"
+
+        "You're most welcome, said the crow. But what about your personal safety. There are many"
+        "hunters around. They visit this jungle regularly. Suppose, a hunter comes, how will you"
+        "save yourself? \n"
+
+        "That is the reason why I want to join your group, said the turtle \n"
+
+        "No sooner had they talked about it than a hunter appeared on the scene. Seeing the hunter,"
+        "the deer darted away; the crow flew in the sky and the mouse ran into a hole. The turtle"
+        "tried to crawl away fast, but he was caught by the hunter. The hunter tied him up in the "
+        "net. He was sad to lose the deer. But he thought, it was better to feast on the turtle "
+        "rather than to go hungry. \n"
+
+        "The turtle's three friends became much worried to see his friend trapped by the hunter."
+        "They sat together to think of some plan to free his friend from the hunter's snare.\n"
+
+        "The crow then flew high up in the sky and spotted the hunter walking along the river bank."
+        "As per the plan the deer ran ahead of the hunter unnoticed and lay on the hunter's path as"
+        "if dead.\n"
+
+        "The hunter saw the deer from a distance, lying on the ground. He was very happy to have "
+        "found it again. Now I'll have a good feast on it and sell its beautiful skin in the market,"
+        "thought the hunter to himself. He put down the turtle on to the ground and ran to pick up "
+        "the deer. \n"
+
+        "In the meantime, as planned, the rat gnawed through the net and freed the turtle. The "
+        "turtle hurriedly crawled away into the river water. \n"
+
+        "Unaware of the plot of these friends, the hunter went to fetch the dear for its tasty "
+        "flesh and beautiful skin. But, what he saw with his mouth agape was that, when he reached"
+        "near, the deer suddenly sprang up to its feet and darted away in the jungle. Before he "
+        "could understand anything, the deer had disappeared. \n"
+
+        "Dejected, the hunter turned back to collect the turtle he had left behind on the ground"
+        "in the snare. But he was shocked to see the snare lying nibbled at and the turtle missing."
+        "For a moment, the hunter thought that he was dreaming. But the damaged snare lying on the "
+        "ground was proof enough to confirm that he was very much awake and he was compelled to "
+        "believe that some miracle had taken place. \n"
+
+        "The hunter got frightened on account of these happenings and ran out of the jungle. \n"
+
+        "The four friends once again started living happily \n\n"
+  </string>
+    <string name="title4"> THE TALKATIVE TORTOISE </string>
+    <string name="story4">
+        "Once upon a time, two geese by the names of Sankata and Vikata and a tortoise by the name"
+        "of Kambugriva lived near a river. They were good friends. Once, due to drought in the "
+        "region, all the rivers, lakes and ponds went dry. There was not a drop of water to drink "
+        "for the birds and animals. They began to die of thirst.\n"
+
+        "The three friends talked among themselves to find a solution to this problem and go out"
+        "in search of water. But despite their best efforts they could not find water anywhere "
+        "around. \n"
+
+        "Having no alternative the three friends decided to go to some distant lake, full of water,"
+        "to settle down there forever. But there was a problem in shifting to so distant a place. "
+        "While it was easy for the geese to fly, it was difficult for the tortoise to cover that "
+        "distance on foot.\n"
+
+        "So the tortoise put up a bright idea. He said, Why not bring a strong stick? I will hold"
+        "the stick in the middle with my teeth and you two hold both the ends of the stick in your"
+        "beaks. In this manner, I can also travel with you. \n"
+
+        "Hearing the suggestion of the tortoise, the geese cautioned him, It's a very good idea. "
+        "We will do as you say. But you will have to be very careful. The problem with you is that"
+        "you are very talkative. And if you open your mouth to say something, while we are flying,"
+        "it will definitely prove to be detrimental to you. So, don't talk while you are dangling "
+        "by the stick, otherwise you will lose your hold and go crashing down on the ground and die.\n"
+
+        "The tortoise understood the logic and promised not to open his mouth during the entire "
+        "journey. So the geese held the stick ends in their beaks and the tortoise held the stick"
+        "in the middle with his teeth and thus, they began their long journey.\n"
+
+        "They flew over hills, valleys, villages, forests and finally came over a town. While they"
+        "were flying over the town, men, women and children came out of their houses to see this"
+        "strange sight. The children began shouting and clapping. The foolish tortoise forgot that"
+        "he was hanging precariously. He became so curious to know the reason behind these clapping"
+        "that he opened his mouth to ask his friends-Friends, what is this all about? But as soon "
+        "as he opened his, mouth to utter these words, he loosened his hold on the stick and fell "
+        "down on the ground and died instantaneously.\n\n"
+   </string>
+    <string name="title5">WHO WILL BELL THE CAT?</string>
+    <string name="story5">
+        "Once upon a time, there lived many mice in a grocer’s shop. There in the shop, they ate"
+        "delicious wheat and rice, pulses and nuts, bread and butter and biscuits. They grew fat"
+        "day by day.\n"
+
+        "One day, the grocer thought about the heavy losses that he had to suffer because of the"
+        "menace of the mice. This angered him so much, that the next day, he brought a big fat "
+        "cat to his shop.\n"
+
+        "The big fat cat began to catch and kill the fat mice everyday.\n"
+
+        "The mice became worried. They called a meeting to discuss the problem.\n"
+
+        "Let's get rid of this cruel fat cat, the leader of the mice said. \n"
+
+        "But how? the other mice asked.\n"
+
+        "All of them began to think. Then one mouse said, We should tie a bell round the neck of "
+        "the fat cat. So, whenever she would move towards us, the bell would ring and we will run"
+        "into our holes immediately.\n"
+
+        "All the mice became very happy to hear this. They began dancing with joy. But their joy "
+        "was short-lived. An old and experienced mouse interrupted their merry-making and shouted,"
+        "Fools, stop it and tell me, who’ll bell the cat?\n"
+
+        "No mouse had the answer to this big question.\n\n"
+
+   </string>
+    <string name="title6">THE JACKAL AND THE ARROW</string>
+    <string name="story6">
+        "Once a hunter was hunting in a forest. After sometime, he felt hungry. He saw a wild boar"
+        "coming towards him. He shot an arrow at the boar. The arrow pierced the boar's neck and"
+        "protruded at its back.\n"
+
+        "But the boar, before falling on the ground, killed the hunter with his pointed tusks. "
+        "Soon the hunter and the boar both were lying dead at the same spot.\n"
+
+        "At the same time, a hungry jackal happened to pass through that place. He saw a man and"
+        "an animal, both lying dead there. 'What a good luck I have? So much food to eat for days"
+        "together', thought the jackal to himself. He began to think whose flesh to eat first – the"
+        "man or the animal.\n"
+
+        "He decided to go slow at the eating, so that the food would last for a longer period.\n"
+
+        "The jackal decided first to lick the blood and eat a little flesh stuck round the tusks"
+        "of the boar. But, as soon as, he put the pointed tip of the boar’s tusks in his mouth it"
+        "pierced his jaws and went through his head. The jackal died on the spot.\n"
+
+        "Greed never pays!!!! \n\n"
+   </string>
+    <string name="title7">THE WIND AND THE SUN</string>
+    <string name="story7">
+        "Once an argument took place between the wind and the sun as to who was stronger of the two."
+        "The wind claimed that he was stronger than the sun, whereas, the sun disagreed saying that"
+        "he was more powerful than the wind.\n"
+
+        "Of course, this was a friendly argument, but there seemed to be no end to if. After a"
+        "marathon discussion, they both came to the conclusion that mere discussion won't serve"
+        "any purpose. They, practically, have to do something to prove their point.\n"
+
+        "Just then, they saw a traveller walking down the road. The sun got a bright idea and "
+        "said to the wind, Let's test our strength on that man. Whosoever of us can force him "
+        "take off his jacket, shall be considered the winner. Have your chance first.\n"
+
+        "Saying this the sun hid himself behind clouds and got ready to see the fun.\n"
+
+        "The wind took the first turn. He blew an icy blast. But the harder he blew, \n"
+        "the more closely did the traveller wrap his jacket around his body. The wind "
+        "tried everything; clung to every ruse. He heaved his stormy power from all "
+        "sides, but all in vain. His confidence in his mightiness began shattering "
+        "gradually. And ultimately, out of sheer disgust and embarrassment the wind gave up.\n"
+
+        "Now it was the sun's turn. He gently put aside the patch of cloud which served as a veil"
+        "a moment ago. The anthelion around the cloud disappeared and now the sun was in the open "
+        "field with all his vigour. He began to shine with all his might. The traveller felt the "
+        "warmth of the sun. Then gradually the sun grew hotter and hotter. The traveller first "
+        "loosened his jacket and then finally, took it off. He began to perspire. He sat in the "
+        "shade of a tree and fanned himself.\n"
+
+        "Thus, the sun proved himself to be stronger than the wind. \n\n"
+        "Persuasion can achieve, what a brute force can't. \n\n"
+
+</string>
+    <string name="title8">THE LION AND THE HARE</string>
+    <string name="story8">
+        "There lived a lion by the name of Bhasuraka, in a dense jungle. He was very powerful, "
+        "cruel and arrogant. He used to kill the animals of the jungle unnecessarily. He even "
+        "killed the human beings, who travelled through the jungle. This became a cause of worry"
+        "for all the animals. They discussed this problem among themselves and ultimately came upon"
+        "a decision to hold a meeting with the lion and make an amicable settlement with him and "
+        "put an end to this ongoing trauma. \n"
+
+        "So, one day, all the animals of the jungle assembled under a big tree. They also invited "
+        "king lion to attend the- meeting. In the meeting the animals said to king lion, "
+        "Your Majesty, we are happy that you are our king. We are all-the-more happy that"
+        "you are presiding over the meeting. King lion thanked them and asked, Why is it that we"
+        "have gathered here? All the animals began looking at each other. They had to muster "
+        "enough courage to broach the topic. Sir, said one of the animals, Its natural that you "
+        "kill us for food. But, killing more than what is required is a positive vice and "
+        "unnecessary. If you go on killing the animals without any purpose, soon a day will come, "
+        "when there will be no animals left in the jungle.\n"
+
+        "So what do you want? roared king lion.\n"
+
+        "Your Majesty, we have already discussed the problem among ourselves and have come upon"
+        "a solution. We have decided to send one animal a day to your den. You can kill and eat it."
+        "This will save you from the trouble of hunting and you will not have to kill a number of "
+        "animals unnecessarily for your meals.\n"
+
+        "Good, the lion roared back. I agree to this proposal, but the animals must reach to me in"
+        "time, otherwise, I'll kill all the animals of the jungle.\n"
+
+        "The animals agreed to this proposal. Everyday one animal walked into the lion's den to"
+        "become his feast. The lion too was very happy to have his food right before him. He "
+        "stopped hunting for his prey.\n"
+
+        "One day, it was the turn of a hare to go into the lion's den. The little hare was "
+        "unwilling to go and become a meal of the lion, but the other animals forced him to go to "
+        "the lion's den. \n"
+
+        "Having no alternative, the hare began thinking quickly. He thought of a plan. He began "
+        "wandering around and made a deliberate delay, and reached the lion's den a little late "
+        "than the lion's meal time. By now, the lion had already lost his patience and seeing the"
+        "hare coming slowly, he became furious and demanded for an explanation.\n"
+
+        "Your Majesty, the hare said with folded hands, I am not to be blamed for that. I have "
+        "come late because another lion began chasing me and wanted to eat me. He said that he "
+        "too was the king of the jiungle.\n"
+
+        "The king lion roared in great anger and said, Impossible, there cannot exist another "
+        "king in this jungle. Who is he? I'll kill him. Show me where he lives.\n"
+
+        "The lion and the hare set out to face the other lion. The hare took the lion to a deep "
+        "well, full of water.\n"
+
+        "When they reached near the well, the hare said to the lion, This is the place where he"
+        "lives. He might be hiding inside.\n"
+
+        "The lion again roared in great anger; climbed up the puteal of the well and peeped in."
+        "He saw his own reflection in the water and thought that the other lion was challenging"
+        "his authority. He lost his temper.\n"
+
+    "I must kill him, said the lion unto himself and jumped into the well. He was soon drowned.\n"
+
+        "The hare was happy. He went back to other animals and narrated the whole story. All the "
+        "animals took a sigh of relief and praised him for his cleverness. They all lived happily"
+        "thereafter. \n
+
+       " Intelligence is superior to physical strength. \n\n"
+
+</string>
+</resources>

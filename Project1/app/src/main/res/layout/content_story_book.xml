@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorAccent"
+    app:itemBackground="@color/colorPrimary"
+    app:itemTextColor="@color/colorPrimaryDark"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.example.vishy.project1.StoryBookActivity"
+    tools:showIn="@layout/activity_story_book">
+
+    <GridLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#C6FF00"
+        android:columnCount="1">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="3dp"
+            android:layout_margin="3dp"
+            android:orientation="horizontal">
+
+            <Button
+                style="?android:attr/buttonBarButtonStyle"
+                android:id="@+id/index1"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@drawable/monkey_croco"
+                android:focusable="false"
+                android:onClick="loadContents" />
+
+            <Button
+                style="?android:attr/buttonBarButtonStyle"
+                android:id="@+id/index2"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@drawable/shepherd_and_wolf_icon"
+                android:layout_marginStart="5dp"
+                android:onClick="loadContents" />
+
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="3dp"
+            android:orientation="horizontal">
+
+            <Button
+                style="?android:attr/buttonBarButtonStyle"
+                android:id="@+id/index3"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@drawable/four_friends_icon"
+                android:focusable="false"
+                android:onClick="loadContents" />
+
+            <Button
+                style="?android:attr/buttonBarButtonStyle"
+                android:id="@+id/index4"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@drawable/talkative_tortoise"
+                android:focusable="false"
+                android:layout_marginStart="5dp"
+                android:onClick="loadContents" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="3dp"
+            android:orientation="horizontal">
+
+            <Button
+                style="?android:attr/buttonBarButtonStyle"
+                android:id="@+id/index5"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@drawable/cat_bell"
+                android:focusable="false"
+                android:onClick="loadContents" />
+
+            <Button
+                style="?android:attr/buttonBarButtonStyle"
+                android:id="@+id/index6"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@drawable/jackal_arrow"
+                android:focusable="false"
+                android:layout_marginStart="5dp"
+                android:onClick="loadContents" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="3dp"
+            android:layout_margin="3dp"
+            android:orientation="horizontal">
+
+            <Button
+                style="?android:attr/buttonBarButtonStyle"
+                android:id="@+id/index7"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@drawable/wind_sun"
+                android:focusable="false"
+                android:onClick="loadContents" />
+
+            <Button
+                style="?android:attr/buttonBarButtonStyle"
+                android:id="@+id/index8"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@drawable/lion_hare_ion"
+                android:focusable="false"
+                android:layout_marginStart="5dp"
+                android:onClick="loadContents" />
+
+        </LinearLayout>
+    </GridLayout>
+
+
+</android.support.v4.widget.NestedScrollView>

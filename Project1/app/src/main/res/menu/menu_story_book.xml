@@ -1,0 +1,36 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    app:itemTextColor="@color/colorPrimaryDark"
+    tools:context="com.example.vishy.project1.StoryBookActivity">
+
+    <item
+        android:id="@+id/empty"
+        android:orderInCategory="1"
+        android:title="@string/actionSettings">
+        <menu>
+            <group
+                android:checkableBehavior="all"
+                android:enabled="true"
+                android:visible="true">
+                <item
+                    android:id="@+id/readerEnabled"
+                    android:orderInCategory="1"
+                    android:title="@string/actionReader" />
+                <item
+                    android:id="@+id/largeFontSize"
+                    android:orderInCategory="2"
+                    android:title="@string/actionFontSize" />
+                <item
+                    android:id="@+id/nightMode"
+                    android:orderInCategory="3"
+                    android:title="@string/actionNightMode" />
+            </group>
+        </menu>
+    </item>
+    <item
+        android:id="@+id/action_settings"
+        android:onClick="aboutMessage"
+        android:orderInCategory="101"
+        android:title="@string/about" />
+</menu>
