@@ -69,10 +69,10 @@
                 android:id="@+id/textView1"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:paddingStart="16dp"
-                android:paddingEnd="16dp"
                 android:layout_gravity="center_horizontal|end"
                 android:fontFamily="serif"
+                android:paddingEnd="16dp"
+                android:paddingStart="16dp"
                 android:scrollHorizontally="false" />
 
         </LinearLayout>

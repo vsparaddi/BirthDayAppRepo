@@ -2,9 +2,9 @@
     <string name="app_name"> STORY TIME </string>
 
     <string name="actionSettings">Settings</string>
-    <string name="actionReader"> Enable Reader </string>
-    <string name="actionFontSize"> Large Font Size </string>
-    <string name="actionNightMode"> Enable Night Mode </string>
+    <string name="actionReader"> Reader </string>
+    <string name="actionFontSize"> Large Font </string>
+    <string name="actionNightMode"> Night Mode </string>
     <string name="about"> About </string>
 
     <string name="title1">"THE MONKEY AND THE CROCODILE"</string>
