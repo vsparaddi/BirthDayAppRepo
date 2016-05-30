@@ -3,12 +3,10 @@ package com.example.vishy.project1;
 import android.support.v7.widget.RecyclerView;
 import android.view.View;
 import android.widget.ImageView;
-import android.widget.TextView;
 import android.widget.Toast;
 
 public class RecyclerViewHolders extends RecyclerView.ViewHolder implements View.OnClickListener {
 
-    public TextView titleView;
     public ImageView imageView;
 
     public RecyclerViewHolders(View itemView) {
@@ -19,7 +17,7 @@ public class RecyclerViewHolders extends RecyclerView.ViewHolder implements View
 
     @Override
     public void onClick(View view) {
-        Toast.makeText(view.getContext(), "Clicked Country Position = " + getPosition(), Toast.LENGTH_SHORT).show();
+        Toast.makeText(view.getContext(), " Clicked Position = " + getPosition(), Toast.LENGTH_SHORT).show();
 
     }
 }

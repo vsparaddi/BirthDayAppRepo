@@ -48,93 +48,7 @@
         "The monkey scampered up the tree to safety. He told the crocodile to tell his wicked wife"
         "that she had married the biggest fool in the world.\n\n"
    </string>
-    <string name="story11">
-        "Long, long ago, there lived a huge crocodile in the river Ganges. "
-        "The river flowed through a dense jungle. On both sides of the river there stood tall "
-        "jamun and other fruit trees. In one such tree there lived a big monkey by the name of "
-        "Raktamukha. He ate fruits from the tree and passed his days happily jumping from one "
-        "tree to another. Sometimes, he climbed down the tree; took a bath in the river and rested"
-        "for a while on its bank. \n"
 
-        "One day, the crocodile came out of the river and sat under the big jamun tree in which "
-        "the monkey lived. The monkey who was sitting high on a branch saw the crocodile taking "
-        "rest under the tree. He became very eager to talk to the crocodile and cultivate a "
-        "friendship with him.\n"
-
-         "Since you're taking rest under the tree, said the moneky, you're my guest. It's my "
-        "duty to offer you food.\n"
-
-         "The monkey gave jamuns and other fruits to the crocodile to eat. The crocodile ate them"
-        "and thanked the monkey for his hospitality. \n"
-
-        "The monkey and the crocodile talked together for hours and soon they became friends. "
-        "They developed such friendship that neither of the two was happy to miss each other's "
-        "company even for a single day. Early since morning, the monkey would start looking for"
-        "the crocodile, and the crocodile would also swim up to the jamun tree as early as possible."
-        "They would sit together, have a hearty chat and the monkey would offer him the delicious"
-        "jamuns. This became their daily routine.\n"
-
-        "One day, the monkey gave some fruits to the crocodile for his wife, as well. The crocodile"
-        "took the fruits happily to his wife and also narrated the whole story to her.\n"
-
-        "The next day, the crocodile's wife said to her husband, Dear, if these fruits are so "
-        "tasty, then the monkey who eats these fruits must be ten times more tasty. Why don't you "
-        "bring the heart of this monkey for my meals?\n"
-
-        "The crocodile was shocked to hear these words from his wife. He said, Darling, the monkey"
-        "is my friend. It would not be fair to take his heart away from him.\n"
-
-        "That means, you don't love me, said the crocodile's wife and began to weep."
-
-        "Don't weep, dear, said the crocodile. I'll bring the monkey's heart for you."
-
-        "The crocodile swiftly swam to the other bank of the river and reached the tree where"
-        "the monkey lived.\n"
-
-        "My wife and I invite you to our home for a dinner. My wife is very angry with me for not"
-        "having invited you earlier, the crocodile said in a sad tone.\n"
-
-         "But how will I go with you? asked the monkey. I don't know how to swim.\n"
-
-         "Don't worry, said the crocodile. Just ride on my back. I'll take you to my house.\n"
-
-         "The monkey happily sat on the back of the crocodile and the crocodile started his journey"
-         "in the water.\n"
-
-         "While in mid stream, the monkey became frightened to see the water all around him and "
-         "asked the crocodile to swim at a slow speed so that he did not fall into the river.\n"
-
-         "The crocodile thought that he could reveal his real intentions to the monkey, since it"
-         "was impossible for him to escape from the middle of the river. So he said to the monkey,"
-         "I am taking you to my home to please my wife. She wants to eat your heart. She says that"
-         "since you eat tasty fruits day and night, your heart must be ten times more tasty than "
-         "those fruits.\n"
-
-         "The monkey was taken aback to hear these words. He had never expected this type of a "
-         "request from a friend. He kept his mental cool and said wittingly, Very well friend. "
-         "It would be my privilege to offer my heart to your charming wife. But alas! you didn't "
-         "inform me earlier, otherwise, I'd have carried my heart with me. Which I usually keep "
-         "in the hollow of the tree.\n"
-
-         "Oh! said the crocodile, I didn't think of it earlier. Now we'll have to go back to the"
-         "tree.\n"
-         "The crocodile turned and swam back to the bank of the river where the monkey lived.\n"
-         "Upon reaching the bank the monkey jumped off the crocodile's back and quickly climbed up "
-         "his home tree. \n"
-
-         "The crocodile waited for hours together for the monkey to return carrying his heart.\n"
-
-         "When the crocodile realised that the monkey was taking too long searching for his heart,"
-         "he called him from the ground and said, Friend, I believe, you must have found your heart"
-         "by now. Now, please come down. My wife must be waiting for us and getting worried.\n"
-
-         "But the monkey laughed and said sitting at the top of the tree, My dear foolish friend."
-         "You've deceived me as a friend. Can any one take out his heart and keep that in a hollow."
-         "It was all a trick to save my life and teach a lesson to a treacherous friend like you. "
-         "Now get lost.\n"
-         "The crocodile returned home with his head bent down. \n"
-
-    </string>
 
     <string name="title2"> THE SHEPHERD AND THE WOLF </string>
     <string name="story2">
@@ -173,7 +87,7 @@
     "The wolf killed many sheep of Ramu. Ramu returned home weeping.\n\n"
 
 </string>
-    <string name="title3"> THE FOUR FRIENDS AND THE HUNTER </string>
+    <string name="title3">THE FOUR FRIENDS AND THE HUNTER</string>
     <string name="story3">
     "Long, long ago, there lived three friends in a jungle. They were-a deer, a crow and a mouse. "
         "They used to share their meals together. \n"

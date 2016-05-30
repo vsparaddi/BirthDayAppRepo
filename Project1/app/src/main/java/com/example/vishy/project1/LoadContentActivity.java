@@ -39,7 +39,49 @@ public class LoadContentActivity extends AppCompatActivity {
 
         setContentView(R.layout.content_story_book2);
 
-        loadContent(textTitle, imageId, textStory);
+        Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar2);
+        if (null != toolbar) {
+            toolbar.setTitle(textTitle);
+        }
+
+        ImageView imageView = (ImageView) findViewById(R.id.imageView);
+        if (imageView != null) {
+            imageView.setBackgroundResource(imageId);
+        }
+
+        final TextView storyView = (TextView) findViewById(R.id.textView1);
+
+        if (storyView != null) {
+            storyView.setText(textStory);
+            if (largeFontSize)
+                storyView.setTextSize(TypedValue.COMPLEX_UNIT_SP, 20);
+            else
+                storyView.setTextSize(TypedValue.COMPLEX_UNIT_SP, 18);
+            if (nightMode) {
+                storyView.setBackgroundColor(ContextCompat.getColor(this, R.color.black));
+                storyView.setTextColor(ContextCompat.getColor(this, R.color.white));
+            } else {
+                storyView.setBackgroundColor(ContextCompat.getColor(this, R.color.white));
+                storyView.setTextColor(ContextCompat.getColor(this, R.color.black));
+            }
+        }
+
+        FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
+        if (null != fab) {
+            if (!readerEnabled)
+                fab.setVisibility(View.INVISIBLE);
+
+            fab.setOnClickListener(new View.OnClickListener() {
+                @Override
+                public void onClick(View view) {
+                    //Snackbar.make(view, "Replace with your own action", Snackbar.LENGTH_LONG)
+                    //        .setAction("Action", null).show();
+                    if (readerEnabled)
+                        reader(storyView);
+                }
+            });
+
+        }
 
     }
 
@@ -127,55 +169,6 @@ public class LoadContentActivity extends AppCompatActivity {
             tts.shutdown();
         }
         super.onStop();
-    }
-
-    public void loadContent(String textTitle, int imageId, String textStory) {
-
-
-        Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar2);
-        if (null != toolbar) {
-            toolbar.setTitle(textTitle);
-        }
-
-        ImageView imageView = (ImageView) findViewById(R.id.imageView);
-        if (imageView != null) {
-            imageView.setBackgroundResource(imageId);
-        }
-
-        final TextView storyView = (TextView) findViewById(R.id.textView1);
-
-        if (storyView != null) {
-            storyView.setText(textStory);
-            if (largeFontSize)
-                storyView.setTextSize(TypedValue.COMPLEX_UNIT_SP, 20);
-            else
-                storyView.setTextSize(TypedValue.COMPLEX_UNIT_SP, 18);
-            if (nightMode) {
-                storyView.setBackgroundColor(ContextCompat.getColor(this, R.color.black));
-                storyView.setTextColor(ContextCompat.getColor(this, R.color.white));
-            } else {
-                storyView.setBackgroundColor(ContextCompat.getColor(this, R.color.white));
-                storyView.setTextColor(ContextCompat.getColor(this, R.color.black));
-            }
-
-        }
-
-        FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
-        if (null != fab) {
-            if (!readerEnabled)
-                fab.setVisibility(View.INVISIBLE);
-
-            fab.setOnClickListener(new View.OnClickListener() {
-                @Override
-                public void onClick(View view) {
-                    //Snackbar.make(view, "Replace with your own action", Snackbar.LENGTH_LONG)
-                    //        .setAction("Action", null).show();
-                    if (readerEnabled)
-                        reader(storyView);
-                }
-            });
-
-        }
     }
 
     public void reader(View view) {

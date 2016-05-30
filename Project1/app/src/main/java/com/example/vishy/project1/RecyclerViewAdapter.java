@@ -33,7 +33,6 @@ public class RecyclerViewAdapter extends RecyclerView.Adapter<RecyclerViewHolder
     @Override
     public void onBindViewHolder(RecyclerViewHolders holder, int position) {
 
-        //ImageView imageView = (ImageView) holder.itemView.findViewById(R.id.image1);
         ImageButton imageView = (ImageButton) holder.itemView.findViewById(R.id.image1);
         StoryModel story = itemList.get(position);
         if (imageView != null) {
