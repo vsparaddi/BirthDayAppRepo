@@ -63,15 +63,16 @@
                 android:cropToPadding="true"
                 android:focusable="true" />
 
-            <TextView
+            <com.bluejamesbond.text.DocumentView xmlns:ext="http://schemas.android.com/apk/res-auto"
                 android:id="@+id/textView1"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_gravity="center_horizontal|end"
-                android:fontFamily="serif"
-                android:paddingEnd="16dp"
-                android:paddingStart="16dp"
-                android:scrollHorizontally="false" />
+                ext:documentView_insetPaddingLeft="16dp"
+                ext:documentView_insetPaddingRight="16dp"
+                ext:documentView_textAlignment="justified"
+                ext:documentView_textFormat="plain"
+                ext:documentView_textSize="18sp"
+                ext:documentView_textTypefacePath="fonts/Roboto-Medium.ttf" />
 
         </LinearLayout>
 

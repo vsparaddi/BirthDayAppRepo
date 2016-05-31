@@ -1,6 +1,7 @@
 package com.example.vishy.project1;
 
 import android.content.Intent;
+import android.graphics.Typeface;
 import android.os.Bundle;
 import android.speech.tts.TextToSpeech;
 import android.speech.tts.UtteranceProgressListener;
@@ -13,6 +14,9 @@ import android.util.TypedValue;
 import android.view.View;
 import android.widget.ImageView;
 import android.widget.TextView;
+
+
+import com.bluejamesbond.text.DocumentView;
 
 import java.util.Locale;
 
@@ -49,20 +53,23 @@ public class LoadContentActivity extends AppCompatActivity {
             imageView.setBackgroundResource(imageId);
         }
 
-        final TextView storyView = (TextView) findViewById(R.id.textView1);
+         final DocumentView storyView = (DocumentView) findViewById(R.id.textView1);
 
         if (storyView != null) {
             storyView.setText(textStory);
-            if (largeFontSize)
-                storyView.setTextSize(TypedValue.COMPLEX_UNIT_SP, 20);
-            else
-                storyView.setTextSize(TypedValue.COMPLEX_UNIT_SP, 18);
-            if (nightMode) {
+
+            if (largeFontSize) {
+                storyView.getDocumentLayoutParams().setTextSize(TypedValue.COMPLEX_UNIT_SP, 22);
+            }
+            else {
+                storyView.getDocumentLayoutParams().setTextSize(TypedValue.COMPLEX_UNIT_SP, 20);
+            }
+           if (nightMode) {
                 storyView.setBackgroundColor(ContextCompat.getColor(this, R.color.black));
-                storyView.setTextColor(ContextCompat.getColor(this, R.color.white));
+                storyView.getDocumentLayoutParams().setTextColor(ContextCompat.getColor(this, R.color.white));
             } else {
                 storyView.setBackgroundColor(ContextCompat.getColor(this, R.color.white));
-                storyView.setTextColor(ContextCompat.getColor(this, R.color.black));
+               storyView.getDocumentLayoutParams().setTextColor(ContextCompat.getColor(this, R.color.black));
             }
         }
 
