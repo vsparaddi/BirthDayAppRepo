@@ -1,7 +1,6 @@
 package com.example.vishy.project1;
 
 import android.content.Intent;
-import android.graphics.Typeface;
 import android.os.Bundle;
 import android.speech.tts.TextToSpeech;
 import android.speech.tts.UtteranceProgressListener;
@@ -13,8 +12,6 @@ import android.util.Log;
 import android.util.TypedValue;
 import android.view.View;
 import android.widget.ImageView;
-import android.widget.TextView;
-
 
 import com.bluejamesbond.text.DocumentView;
 
@@ -188,7 +185,8 @@ public class LoadContentActivity extends AppCompatActivity {
                 button.setImageResource(R.drawable.speak);
         } else {
 
-            TextView textView = (TextView) findViewById(R.id.textView1);
+            //TextView textView = (TextView) findViewById(R.id.textView1);
+            DocumentView textView = (DocumentView) findViewById(R.id.textView1);
             if (null != textView) {
                 String text = textView.getText().toString();
                 ConvertTextToSpeech(text);
